@@ -1,6 +1,9 @@
-baseURL : "https://dinesh-mn.github.io/dineshmn/public/"
+# baseURL : "https://dinesh-mn.github.io/dineshmn/public"
+baseURL: "http://localhost:1313/"
+
+
 languageCode : 'en-us'
-title : 'Dinesh-mn.in'
+title : 'Dinesh-mn'
 theme : "PaperMod"
 relativeURLs: true
 canonifyURLs: true
