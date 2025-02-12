@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-02T23:40:04+05:30</lastmod>
   </url><url>
@@ -16,5 +17,21 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+=======
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-09-02T23:40:04+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/first/</loc>
+    <lastmod>2024-09-02T23:40:04+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-09-02T23:40:04+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/archives/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+>>>>>>> a712da5 (update error)
   </url>
 </urlset>
